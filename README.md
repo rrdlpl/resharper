@@ -30,5 +30,5 @@ As code in this solution specifically serves to demonstrate ReSharper Ultimate f
 * Visual Studio 2015
 * Version of ReSharper Ultimate
 
-##Cheat sheet
+## Cheat sheet
 https://www.jetbrains.com/resharper/docs/ReSharper_DefaultKeymap_VSscheme.pdf
